@@ -10,7 +10,7 @@
 **Link** : https://github.com/tanwirul04/uts-tanwirul-khasanah-24090023.git
 
 ## GitHub Pages:
-**Link** :
+**Link** : https://tanwirul04.github.io/uts-tanwirul-khasanah-24090023/
 
 ## Deskripsi singkat project (Fungsi Tiap Halaman)
 Project ini merupakan website sederhana dengan 3 halaman utama: Login, Dashboard, dan Produk.  
